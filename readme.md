@@ -13,3 +13,4 @@ java -version
 ```
 java -jar build\Statistic.jar "D:\_logs.7z"
 ```
+Результат работы программы сохраняется в файл Statistics.txt, который создается рядом с архивом логов.
